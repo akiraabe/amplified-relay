@@ -1,0 +1,5 @@
+export const TIME = 7; // 開催回数
+
+export const INITIAL_DATA = [
+  {name:"test",discordId:9999,time:7,turn:1,team:"A",result:"00:25:00",description:"test",},
+]
